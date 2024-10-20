@@ -1,6 +1,6 @@
 // Link Number: 0
 llSetPrimitiveParams([
-  PRIM_NAME, "Voice Box 1.0",
+  PRIM_NAME, "Voice Box 1.1",
   PRIM_DESC, "Simulates voice",
   PRIM_TYPE, PRIM_TYPE_BOX, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0, ZERO_VECTOR, <1, 1, 0>, ZERO_VECTOR,
   PRIM_SLICE, <0, 1, 0>,
