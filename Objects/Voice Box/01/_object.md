@@ -38,7 +38,7 @@
 | dh2 | Sound | [48a3c739-476a-a322-5a9d-2b836c54a0f7](../../../Allophone/sounds/dh2.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | eh | Sound | [345743ca-901c-1e8e-4f09-a7726b448c7f](../../../Allophone/sounds/eh.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | el | Sound | [cf25b065-570c-a452-4ff4-56727dc43376](../../../Allophone/sounds/el.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
-| er1 | Sound | [494feb49-5c5d-4d67-0254-15ddf1d598f3](../../../Allophone/sounds/er.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
+| er1 | Sound | [494feb49-5c5d-4d67-0254-15ddf1d598f3](../../../Allophone/sounds/er1.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | er2 | Sound | [5f309548-80a4-c927-798f-3e95c6bdd400](../../../Allophone/sounds/er2.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | ey | Sound | [ad688cc9-7c0a-8ef9-170f-c24d8ce58499](../../../Allophone/sounds/ey.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | ff | Sound | [f83010a2-4038-7fc1-0cdb-a6d8b8d8ce0e](../../../Allophone/sounds/ff.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
