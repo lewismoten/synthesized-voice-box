@@ -1,12 +1,11 @@
 # General
 
-| Setting | Value | | | |
-| --- | --- | --- | --- | --- |
+| Setting | Value |
+| --- | --- |
 | Link Number | 1 |
-| Name | Voice Box 1.3 |
+| Name | Synthesized Voice Box 1.4 |
 | Description | Simulates voice |
 | Creator | dedric.mauriac |
-
 
 # Permssions
 
