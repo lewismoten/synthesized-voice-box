@@ -12,6 +12,7 @@ integer SOUND_PRELOADED = 10002;
 integer SPEAK = 10003;
 integer PREPARE_SPEACH = 10004;
 integer SPEACH_PREPARED = 10005;
+integer SOUND_PREPARE = 10006;
 
 list translations = [
     "Happy Birthday, Second Life!",
@@ -296,6 +297,10 @@ default
     }
     link_message(integer sender, integer number, string message, key id)
     {
+        if(number == SOUND_PREPARE)
+        {
+            Speak(message);
+        }
         if(number == SOUND_PRELOADED)
         {
             preloadCount++;
