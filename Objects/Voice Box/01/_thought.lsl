@@ -21,10 +21,10 @@ list translations = [
     "Show me the Lindens!"
 ];
 list codes = [
-    "hh1 ae pp iy pa4 pa3 bb2 er2 th dd2 eh ey dh2 pa4 pa3 pa5 ss eh kk3 ax ax nn1 dd1 pa4 pa3 ll ay ff pa4 pa3 pa5 pa5 pa4",
-    "ao ll pa4 pa3 yy2 uh er2 pa4 pa3 pp rr2 ih ih mm zz pa4 pa3 pa5 aa er2 pa4 pa3 bb2 ih ll ax ax nn1 gg3 pa4 pa3 tt2 uw2 pa4 pa3 ax ss pa4 pa3",
-    "ao ay pa4 pa3 bb1 ll ey dh2 mm pa4 pa3 ih tt2 pa4 pa3 ao ll pa4 pa3 ao nn1 pa4 pa3 ff ay ll ih pp pa4 pa3 ll ay nn1 dd2 eh nn1 pa4 pa3",
-    "sh ow pa4 pa3 mm iy pa4 pa3 dh1 iy pa4 pa3 ll ay nn1 dd2 eh nn1 zz pa4 pa3 pa5 pa5 pa4"
+    "hh1 hh1 ae pp iy pa4 pa3 bb2 er2 th dd2 eh ey pa4 pa3 pa5 ss ss eh kk3 ax ax uh nn1 dd1 pa4 pa3 ll ll ay ff",
+    "ao ll ll pa4 pa3 yy2 uh or rr2 pa4 pa3 pp rr2 ih ih mm zz pa4 pa3 pa5 aa er2 pa4 pa3 bb2 ih ll ax ax nn1 gg3 pa4 pa3 tt2 uw2 pa4 pa3 uh ss",
+    "ao ay pa4 pa3 bb1 ll ey dh2 mm pa4 pa3 ih tt2 pa4 pa3 ao ll pa4 pa3 ao nn1 pa4 pa3 ff eh ll ih pp pa4 pa3 ll eh nn1 dd2 eh nn1",
+    "sh ow pa4 pa3 mm iy pa4 pa3 dh1 iy pa4 pa3 ll ay nn1 dd2 eh nn1 zz"
 ];
 float Duration(string a)
 {
