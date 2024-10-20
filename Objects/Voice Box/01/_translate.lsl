@@ -104,7 +104,7 @@ string TranslateSingle(string s)
     if(s == "8") return "eh ae tt1";
     if(s == "9") return "nn1 ay nn1";
     
-    return "pa";
+    return "pa5";
 }
 SpeakTranslation(list allophones)
 {
