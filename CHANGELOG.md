@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3 - 2007-01-02
+
+### Added
+
+- Sounds are emitted from multiple prims for better synchronization
+
+### Changed
+
+- Sounds pre-loaded quicker
+
 ## 1.2 - 2006-06-24
 
 ### Updated
