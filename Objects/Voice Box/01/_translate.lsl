@@ -2,6 +2,7 @@
 
 // just send text to channel 77.  It will print out a list of
 // allophones to help you get started.
+integer SOUND_PREPARE = 10006;
 
 list TranslateWord(string word)
 {
@@ -107,15 +108,17 @@ string TranslateSingle(string s)
 }
 SpeakTranslation(list allophones)
 {
-    integer n = llGetListLength(allophones);
-    integer i;
-    string allophone = "";
-    for(i = 0; i < n; ++i)
-    {
-        allophone = llList2String(allophones, i);
-        if(allophone == "pa") llSleep(.3);
-        else llPlaySound(allophone, 1);
-    }
+    llMessageLinked(LINK_THIS, SOUND_PREPARE, llDumpList2String(allophones, " "), NULL_KEY);
+    
+//    integer n = llGetListLength(allophones);
+//    integer i;
+//    string allophone = "";
+//    for(i = 0; i < n; ++i)
+//    {
+//        allophone = llList2String(allophones, i);
+//        if(allophone == "pa") llSleep(.3);
+//        else llPlaySound(allophone, 1);
+//    }
 }
 SpeakWord(string word)
 {
