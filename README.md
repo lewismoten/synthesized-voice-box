@@ -25,3 +25,7 @@ The allophones are parts of speach that are stitched together to form words and 
 # Allophone - SPO 1.0
 
 The object, [Allophone - SPO 1.0](./Objects/Allophone%20-%20SPO%201.0/) appears to only be an object to offer the allphone sounds from the [sounds](./Allophone/sounds/) folder. It's included for archival purposes.
+
+# Forked
+
+After creating this repo with the various versions, I searched my GitHub account and found version 1.2 already had it's own repo at [Eliza-Chatbot-LSL](https://github.com/lewismoten/Eliza-Chatbot-LSL).
