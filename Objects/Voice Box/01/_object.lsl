@@ -1,6 +1,6 @@
-// Link Number: 0
+// Link Number: 1
 llSetPrimitiveParams([
-  PRIM_NAME, "Voice Box 1.2",
+  PRIM_NAME, "Voice Box 1.3",
   PRIM_DESC, "Simulates voice",
   PRIM_TYPE, PRIM_TYPE_BOX, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0, ZERO_VECTOR, <1, 1, 0>, ZERO_VECTOR,
   PRIM_SLICE, <0, 1, 0>,
@@ -13,7 +13,7 @@ llSetPrimitiveParams([
   PRIM_POS_LOCAL, <36.77629, 247.2655, 97.41058>,
   PRIM_ROTATION, ZERO_ROTATION,
   PRIM_ROT_LOCAL, ZERO_ROTATION,
-  PRIM_SIZE, <0.08213, 0.08213, 0.08213>,
+  PRIM_SIZE, <1.16976, 2.50356, 0.48526>,
   PRIM_TEXT, "", ZERO_VECTOR, 0,
   PRIM_FLEXIBLE, FALSE, 0, 0, 0, 0, 0, ZERO_VECTOR,
   PRIM_POINT_LIGHT, FALSE, ZERO_VECTOR, 0, 0, 0,
@@ -46,9 +46,8 @@ llSetPrimitiveParams([
 
 // Face 1
 llSetPrimitiveParams([
-  PRIM_COLOR, 1, <1, 1, 1>, 1,
-  // VoiceBox.png
-  PRIM_TEXTURE, 1, "ed017a21-779f-0c2e-8f10-600103daf767", <1, 1, 0>, ZERO_VECTOR, 0,
+  PRIM_COLOR, 1, ZERO_VECTOR, 1,
+  PRIM_TEXTURE, 1, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 1, 0,
   PRIM_RENDER_MATERIAL, 1, NULL_KEY,
   PRIM_TEXGEN, 1, 0,
@@ -65,9 +64,8 @@ llSetPrimitiveParams([
 
 // Face 2
 llSetPrimitiveParams([
-  PRIM_COLOR, 2, <1, 1, 1>, 1,
-  // VoiceBox.png
-  PRIM_TEXTURE, 2, "ed017a21-779f-0c2e-8f10-600103daf767", <1, 1, 0>, ZERO_VECTOR, 0,
+  PRIM_COLOR, 2, ZERO_VECTOR, 1,
+  PRIM_TEXTURE, 2, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 2, 0,
   PRIM_RENDER_MATERIAL, 2, NULL_KEY,
   PRIM_TEXGEN, 2, 0,
@@ -84,9 +82,8 @@ llSetPrimitiveParams([
 
 // Face 3
 llSetPrimitiveParams([
-  PRIM_COLOR, 3, <1, 1, 1>, 1,
-  // VoiceBox.png
-  PRIM_TEXTURE, 3, "ed017a21-779f-0c2e-8f10-600103daf767", <1, 1, 0>, ZERO_VECTOR, 0,
+  PRIM_COLOR, 3, ZERO_VECTOR, 1,
+  PRIM_TEXTURE, 3, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 3, 0,
   PRIM_RENDER_MATERIAL, 3, NULL_KEY,
   PRIM_TEXGEN, 3, 0,
@@ -103,9 +100,8 @@ llSetPrimitiveParams([
 
 // Face 4
 llSetPrimitiveParams([
-  PRIM_COLOR, 4, <1, 1, 1>, 1,
-  // VoiceBox.png
-  PRIM_TEXTURE, 4, "ed017a21-779f-0c2e-8f10-600103daf767", <1, 1, 0>, ZERO_VECTOR, 0,
+  PRIM_COLOR, 4, ZERO_VECTOR, 1,
+  PRIM_TEXTURE, 4, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 4, 0,
   PRIM_RENDER_MATERIAL, 4, NULL_KEY,
   PRIM_TEXGEN, 4, 0,
