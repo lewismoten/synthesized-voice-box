@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5 - 2008-02-24
+
+### Changed
+
+- Translation on channel 77 instructs `thought` to play sounds with correct delays
+
 ## 1.4b - 2007-11-21
 
 - No change other than object name. 
