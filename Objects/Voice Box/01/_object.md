@@ -3,7 +3,7 @@
 | Setting | Value | | | |
 | --- | --- | --- | --- | --- |
 | Link Number | 1 |
-| Name | Voice Box 1.2 |
+| Name | Voice Box 1.3 |
 | Description | Simulates voice |
 | Creator | dedric.mauriac |
 
