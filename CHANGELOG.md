@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4b - 2007-11-21
+
+- No change other than object name. 
+- Confusion with 1.4, and acquired date. May have been a time when objects were packaged for automated delivery via JEVN, SL Exchange, etc.
+
 ## 1.4 - 2008-02-24
 
 ### Changed

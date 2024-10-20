@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 1 |
-| Name | Synthesized Voice Box 1.4 |
+| Name | Synthesized Voice Box 1.4b |
 | Description | Simulates voice |
 | Creator | dedric.mauriac |
 
