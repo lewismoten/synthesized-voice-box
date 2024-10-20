@@ -294,4 +294,12 @@ default
         if(channel == 78) Speak(message);
         else if(channel == 79) Speak(Hexes2Allophones(message));
     }
+    link_message(integer sender, integer number, string message, key id)
+    {
+        if(number == SOUND_PRELOADED)
+        {
+            preloadCount++;
+            if(preloadCount >= 6) Speak("rr1 eh eh pa1 dd2 iy");
+        }
+    }
 }
