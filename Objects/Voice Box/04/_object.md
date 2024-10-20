@@ -2,7 +2,7 @@
 
 | Setting | Value |
 | --- | --- |
-| Link Number | 3 |
+| Link Number | 4 |
 | Name | Object |
 | Description |  |
 | Creator | dedric.mauriac |
@@ -20,7 +20,7 @@
 
 | Name | Type | Key | Move | Modify | Copy | Transfer | Acquired |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| _voice | Script | c0e07677-f3a6-f83b-a406-f94fb8832e4d | Yes | Yes | Yes | Yes | 1970-01-01T00:00:00Z | Dedric Mauriac |
+| _voice | Script | 07944803-c509-9f36-d547-eb8cb618099f | Yes | Yes | Yes | Yes | 1970-01-01T00:00:00Z | Dedric Mauriac |
 | aa | Sound | [25c8f4f6-86fc-9d9f-c42d-7ab0d455dbf4](../../../Allophone/sounds/aa.ogg) | Yes | Yes | Yes | Yes | 1970-01-01T00:00:00Z | Dedric Mauriac |
 | ae | Sound | [5317ed61-3173-ed31-1ca9-c930a9aae5d8](../../../Allophone/sounds/ae.ogg) | Yes | Yes | Yes | Yes | 1970-01-01T00:00:00Z | Dedric Mauriac |
 | ao | Sound | [b2b5818c-da7a-84e5-e8fd-b6edc1dfd1e1](../../../Allophone/sounds/ao.ogg) | Yes | Yes | Yes | Yes | 1970-01-01T00:00:00Z | Dedric Mauriac |
