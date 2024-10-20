@@ -4,7 +4,7 @@ Emulate speech within Second Life
 
 ## Background
 
-This was a small research project to emulate speech within Second Life based. Just under sixty 8-bit sounds from the General Instrument SPO-256-AL2 were strung together to form words. With the existing limitations, speech was not fluid. The project was donated as open-source to Second Life's third anniversary and was in the SLBB3 vault at the time. As I became familiar with various techniques to push Second Life platform to its limits, I found ways to work around some of the limitations and improved the voice box to produce speech that could be understood.
+This was a small research project to emulate speech within Second Life based. Just under sixty 8-bit sounds from the General Instrument SPO-256-AL2 were strung together to form words. With the existing limitations, speech was not fluid. The project was donated as open-source to Second Life's third anniversary and was in the SL3B vault at the time. As I became familiar with various techniques to push Second Life platform to its limits, I found ways to work around some of the limitations and improved the voice box to produce speech that could be understood.
 
 ## Visual Changes
 
