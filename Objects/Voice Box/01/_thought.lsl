@@ -98,74 +98,46 @@ Speak(string message)
         time = Duration(allophone);
         if(llGetSubString(allophone, 0, 1) == "pa") allophone = "pa";
         
+        // first node
         if(i % 6 == 0)
         {
-            code1 += (string)(time1 - dialation) + "|" + allophone + "|";
-            time1 = time;
-            time2 += time;
-            time3 += time;
-            time4 += time;
-            time5 += time;
-            time6 += time;
+            code1 += (string)(time1) + "|" + allophone + "|";
+            time1 = dialation;
         }
         else if(i % 6 == 1)
         {
-            code2 += (string)(time2 - dialation) + "|" + allophone + "|";
-            time1 += time;
-            time2 = time;
-            time3 += time;
-            time4 += time;
-            time5 += time;
-            time6 += time;
+            code2 += (string)(time2) + "|" + allophone + "|";
+            time2 = dialation;
         }
         else if(i % 6 == 2)
         {
-            code3 += (string)(time3 - dialation) + "|" + allophone + "|";
-            time1 += time;
-            time2 += time;
-            time3 = time;
-            time4 += time;
-            time5 += time;
-            time6 += time;
+            code3 += (string)(time3) + "|" + allophone + "|";
+            time3 = dialation;
         }
         else if(i % 6 == 3)
         {
-            code4 += (string)(time4 - dialation) + "|" + allophone + "|";
-            time1 += time;
-            time2 += time;
-            time3 += time;
-            time4 = time;
-            time5 += time;
-            time6 += time;
+            code4 += (string)(time4) + "|" + allophone + "|";
+            time4 = dialation;
         }
         else if(i % 6 == 4)
         {
-            code5 += (string)(time5 - dialation) + "|" + allophone + "|";
-            time1 += time;
-            time2 += time;
-            time3 += time;
-            time4 += time;
-            time5 = time;
-            time6 += time;
+            code5 += (string)(time5) + "|" + allophone + "|";
+            time5 = dialation;
         }
         else if(i % 6 == 5)
         {
-            code6 += (string)(time6 - dialation) + "|" + allophone + "|";
-            time1 += time;
-            time2 += time;
-            time3 += time;
-            time4 += time;
-            time5 += time;
-            time6 = time;
+            code6 += (string)(time6) + "|" + allophone + "|";
+            time6 = dialation;
         }
+        // add allophone's time to pause with other nodes
+        time1 += time;
+        time2 += time;
+        time3 += time;
+        time4 += time;
+        time5 += time;
+        time6 += time;
         
     }
-//    llWhisper(0, "code1:" + code1);
-//    llWhisper(0, "code2:" + code2);
-//    llWhisper(0, "code3:" + code3);
-//    llWhisper(0, "code4:" + code4);
-//    llWhisper(0, "code5:" + code5);
-//    llWhisper(0, "code6:" + code6);
 
     preloadCount = 0;
     llMessageLinked(LINK_SET, PREPARE_SPEACH, code1 + ";" + code2 + ";" + code3 + ";" + code4 + ";" + code5 + ";" + code6, NULL_KEY);
