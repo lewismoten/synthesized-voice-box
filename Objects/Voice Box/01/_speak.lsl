@@ -7,6 +7,12 @@
 // based on the General Instrument SPO-256-AL2 chip
 // http://www.howell1964.freeserve.co.uk/parts/sp0256.htm
 
+integer PRELOAD_SOUND = 10001;
+integer SOUND_PRELOADED = 10002;
+integer SPEAK = 10003;
+integer PREPARE_SPEACH = 10004;
+integer SPEACH_PREPARED = 10005;
+
 list translations = [
     "Happy Birthday, Second Life!",
     "All your prims, are belong to us",
