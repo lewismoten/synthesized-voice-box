@@ -259,6 +259,7 @@ string Hex2Allophone(string hex)
 integer index;
 integer listener;
 integer listener2;
+integer preloadCount;
 init()
 {
     index = -1;
@@ -268,15 +269,8 @@ init()
     listener = llListen(78, "", llGetOwner(), ""); // allophone channel
     listener = llListen(79, "", llGetOwner(), ""); // hex code channel
 
-    integer i;
-    integer n = llGetInventoryNumber(INVENTORY_SOUND);
-    for(i = 0; i < n; i++)
-    {
-        llSetText((string)i + "/" + (string)n, <1,1,1>, 1);
-        llPreloadSound(llGetInventoryName(INVENTORY_SOUND, i));
-    }
-    llSetText("", ZERO_VECTOR, 0);
-    Speak("rr1 eh eh pa1 dd2 iy");
+    preloadCount = 0;
+    llMessageLinked(LINK_SET, PRELOAD_SOUND, EOF, NULL_KEY);
 }
 default
 {
