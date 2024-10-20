@@ -32,7 +32,7 @@ const getOggName = name => `${name}.ogg`;
 const getCacheFileName = uuid => `${uuid}.dsf`;
 
 const main = () => {
-  files = getFilePaths('.', /\.(md|lsl)$/);
+  files = getFilePaths('.', /\.(md)$/);
   files.forEach(getAssets);
 
   console.log("Done");
@@ -46,9 +46,10 @@ const getFilePaths = (dir, pattern = /\./) => {
     ;
   return files;
 }
-const parseUuids = text => {
-  const pattern = /[\da-f]{8}-([\da-f]{4}-){3}[\da-f]{12}/g;
-  return Array.from(text.matchAll(pattern)).map(m => m[0]);
+const parseNonLinkedUuids = text => {
+  // Spaces are important, as they indicate the UUID is not linked
+  const pattern = / [\da-f]{8}-([\da-f]{4}-){3}[\da-f]{12} /g;
+  return Array.from(text.matchAll(pattern)).map(m => m[0].trim());
 }
 const parseNamedAssets = (text, uuids) => {
   const localAssets = new Map();
@@ -101,14 +102,14 @@ const fetchMissingAssets = (file, localAssets) => {
           break;
       }
     } else {
-      console.log('local', name, uuid);
+      console.log('Not Found', uuid, dirPath, name);
     }
   })
 
 }
 const getAssets = (file) => {
   const text = fs.readFileSync(file, 'utf8');
-  const uuids = parseUuids(text);
+  const uuids = parseNonLinkedUuids(text);
   if (uuids.length === 0) return;
   const localAssets = parseNamedAssets(text, uuids);
   fetchMissingAssets(file, localAssets);
