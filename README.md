@@ -6,5 +6,7 @@ The allopones are parts of speach that are stitched together to form words and p
 
 # Allophone - SPO 1.0
 
-The object, [Allophone - SPO 1.0](./Objects/Allophone%20-%20SPO%201.0/) appears to only be an object to offer the allphone sounds from the [sounds](./Allophone/sounds/) folder.
+![Voice Box Picture](./Assets/Voice%20Box%20Picture.png)
+
+The object, [Allophone - SPO 1.0](./Objects/Allophone%20-%20SPO%201.0/) appears to only be an object to offer the allphone sounds from the [sounds](./Allophone/sounds/) folder. Version 1.0 of th [Voice Box](./Objects/Voice%20Box/) appears to have come out at the same time with birthday wishes for Second Life's third anniversary.
 
