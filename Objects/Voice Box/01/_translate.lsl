@@ -92,16 +92,16 @@ string TranslateSingle(string s)
     if(s == "z") return "zz";
     if(s == ".") return "pa5";
     if(s == "-") return "dh1 aa sh";
-    if(s == "1") return "wh uh nn1 pa3";
-    if(s == "2") return "tt1 ow pa3";
-    if(s == "3") return "th rr1 ey pa3";
-    if(s == "4") return "ff or pa3";
-    if(s == "5") return "ff aa vv ay pa3";
-    if(s == "6") return "ss ih kk1 ss pa3";
-    if(s == "7") return "ss eh vv eh nn1 pa3";
-    if(s == "8") return "eh ae tt1 pa3";
-    if(s == "9") return "nn1 ay nn1 pa3";
-    if(s == "0") return "zh er1 ow pa3";
+    if(s == "0") return "zz yr ow";
+    if(s == "1") return "ww ss ax nn1";
+    if(s == "2") return "tt2 uw2";
+    if(s == "3") return "th rr1 iy";
+    if(s == "4") return "ff ff or";
+    if(s == "5") return "ff ff ay vv";
+    if(s == "6") return "ss ss ih ih kk2 kk2";
+    if(s == "7") return "ss eh vv eh nn1";
+    if(s == "8") return "eh ae tt1";
+    if(s == "9") return "nn1 ay nn1";
     
     return "pa";
 }

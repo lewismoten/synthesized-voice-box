@@ -3,7 +3,7 @@
 | Setting | Value | | | |
 | --- | --- | --- | --- | --- |
 | Link Number | 0 |
-| Name | Voice Box 1.1 |
+| Name | Voice Box 1.2 |
 | Description | Simulates voice |
 | Creator | dedric.mauriac |
 
@@ -21,8 +21,9 @@
 
 | Name | Type | Key | Move | Modify | Copy | Transfer | Acquired |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| _speak | Script | 0643f542-db91-9f11-32df-46c190dc3a8c | Yes | Yes | Yes | Yes | 2006-06-23T07:30:52Z | Dedric Mauriac |
-| _translate | Script | 26f122cc-78a8-e84a-0b37-66a1029d810c | Yes | Yes | Yes | Yes | 2006-06-24T22:21:49Z | Dedric Mauriac |
+| _dictionary | Notecard | 5a7199e4-7841-d8c7-aeb9-62982c5c724d | Yes | Yes | Yes | Yes | 2006-06-25T03:33:36Z | Dedric Mauriac |
+| _speak | Script | 8e0005bc-c20d-6160-f807-f598c6fb3a2d | Yes | Yes | Yes | Yes | 2006-06-23T07:30:52Z | Dedric Mauriac |
+| _translate | Script | c95d5c0e-7e2e-7922-fc5a-8b100f3bd398 | Yes | Yes | Yes | Yes | 2006-06-24T22:21:49Z | Dedric Mauriac |
 | aa | Sound | [25c8f4f6-86fc-9d9f-c42d-7ab0d455dbf4](../../../Allophone/sounds/aa.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | ae | Sound | [5317ed61-3173-ed31-1ca9-c930a9aae5d8](../../../Allophone/sounds/ae.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |
 | ao | Sound | [b2b5818c-da7a-84e5-e8fd-b6edc1dfd1e1](../../../Allophone/sounds/ao.ogg) | Yes | Yes | Yes | Yes | 2006-06-24T16:37:10Z | Dedric Mauriac |

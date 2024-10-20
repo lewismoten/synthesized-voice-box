@@ -1,0 +1,245 @@
+a:ey
+alarm:ax ll ar mm
+april:ey pa3 pp rr2 ih ih ll
+ate:ey pa3 tt2
+august:ao ao pa2 gg2 ax ss pa3 tt1
+b:bb2 iy
+bathe:bb2 ey dh2
+bather:bb2 ey dh2 er1
+bathing:bb2 ey dh2 ih ng
+beer:bb2 yr
+bread:bb1 rr2 eh eh pa1 dd1
+by:bb2 aa ay
+c:ss ss iy
+calendar:kk1 ae ae ll eh nn1 pa2 dd2 er1
+check:ch eh eh pa3 kk2
+checked:ch eh eh pa3 kk2 pa2 tt2
+checker:ch eh eh pa3 kk1 er1
+checkers:ch eh eh pa3 kk1 er1 zz
+checking:ch eh eh pa3 kk1 ih ng
+checks:ch eh eh pa3 kk1 ss
+clock:kk1 ll aa aa pa3 kk2
+clown:kk1 ll aw nn1
+cognitive:kk3 aa aa gg3 nn1 ih pa3 tt2 ih vv
+collide:kk3 ax ll ay dd1
+computer:kk1 ax mm pp yy1 uw1 tt2 er1
+cookie:kk3 uh kk1 iy
+coop:kk3 uw2 pa3 pp
+correct:kk1 er2 eh eh pa2 kk2 pa2 tt1
+corrected:kk1 er2 eh eh pa2 kk2 pa2 tt2 ih pa2 dd1
+correcting:kk1 er2 eh eh pa2 kk2 pa2 tt2 ih ng
+corrects:kk1 er2 eh eh pa2 kk2 pa2 tt1 ss
+crown:kk1 rr2 aw nn1
+d:dd2 iy
+date:dd2 ey pa3 tt2
+daughter:dd2 ao tt2 er1
+day:dd2 eh ey
+december:dd2 iy ss ss eh eh mm pa1 bb2 er1
+divided:dd2 ih vv ay pa2 dd2 ih pa2 dd1
+e:iy
+eight:ey pa3 tt2
+eighteen:ey pa2 pa3 tt2 iy nn1
+eighty:ey pa3 tt2 iy
+eleven:ih ll eh eh vv ih nn1
+emotional:iy mm ow sh ax nn1 ax el
+engage:eh eh pa1 nn1 gg1 ey pa2 jh
+engagement:eh eh pa1 nn1 gg1 ey pa2 jh mm eh eh nn1 pa2 pa3 tt2
+engages:eh eh pa1 nn1 gg1 ey pa2 jh ih zz
+engaging:eh eh pa1 nn1 gg1 ey pa2 jh ih ng
+enrage:eh nn1 rr1 ey pa2 jh
+enraged:eh nn1 rr1 ey pa2 jh pa2 dd1
+enrages:eh nn1 rr1 ey pa2 jh ih zz
+enraging:eh nn1 rr1 ey pa2 jh ih ng
+escape:eh ss ss pa3 kk1 pa2 ey pp
+escaped:eh ss ss pa3 kk1 pa2 ey pp pa2 tt2
+escapes:eh ss ss pa3 kk1 pa2 ey pp ss
+escaping:eh ss ss pa3 kk1 pa2 ey pp ih ng
+equal:iy pa2 pa3 kk3 wh ax el
+equals:iy pa2 pa3 kk3 wh ax el zz
+error:eh xr or
+extend:eh kk1 ss tt2 eh eh nn1 dd1
+f:eh eh ff ff
+february:ff eh eh pa1 bb1 rr2 uw2 xr iy
+fifteen:ff ih ff pa2 pa3 tt2 iy nn1
+fifty:ff ff ih ff ff pa2 pa3 tt2 iy
+fir:ff er2
+five:ff ff ay vv
+for:ff ff or
+fore:ff ff or
+forty:ff or pa3 tt2 iy
+four:ff ff or
+fourteen:ff or pa2 pa3 tt2 iy nn1
+freeze:ff ff rr1 iy zz
+freezer:ff ff rr1 iy zz er1
+freezers:ff ff rr1 iy zz er1 zz
+freezing:ff ff rr1 iy zz ih ng
+friday:ff rr2 ay pa2 dd2 ey
+frozen:ff ff rr1 ow zz eh nn1
+g:jh iy
+gauge:gg1 ey pa2 jh
+gauged:gg1 ey pa2 jh pa2 dd1
+gauges:gg1 ey pa2 jh ih zz
+gauging:gg1 ey pa2 jh ih ng
+h:ey pa2 pa3 ch
+hello:hh2 eh ll ax ow
+hour:aw er1
+hundred:hh2 ax ax nn1 pa2 dd2 rr2 ih ih pa1 dd1
+i:aa ay
+infinitive:ih nn1 ff ff ih ih nn1 ih pa2 pa3 tt2 ih vv
+intrigued:ih nn1 pa3 tt2 rr2 iy pa1 gg3 pa2 dd1
+intrigues:ih nn1 pa3 tt2 rr2 iy pa1 gg3 zz
+intriguing:ih nn1 pa3 tt2 rr2 iy pa1 gg3 ih ng
+investigated:ih ih nn1 vv eh eh ss pa2 pa3 tt2 ih pa1 gg1 ey pa2 tt2 ih pa2 dd1
+investigator:ih ih nn1 vv eh eh ss pa2 pa3 tt2 ih pa1 gg1 ey pa2 tt2 er1
+investigators:ih ih nn1 vv eh eh ss pa2 pa3 tt2 ih pa1 gg1 ey pa2 tt2 er1 zz
+investigates:ih ih nn1 vv eh eh ss pa2 pa3 tt2 ih pa1 gg1 ey pa2 tt1 ss
+investigating:ih ih nn1 vv eh eh ss pa2 pa3 tt2 ih pa1 gg1 ey pa2 tt2 ih ng
+j:jh eh ey
+january:jh ae ae nn1 yy2 xr iy
+july:jh uw1 ll ay
+june:jh uw2 nn1
+k:kk1 eh ey
+key:kk1 iy
+l:eh eh el
+legislate:ll eh eh pa2 jh jh ss ss ll ey pa2 pa3 tt2
+
+legislated:ll eh eh pa2 jh jh ss ss ll ey pa2 pa3 tt2 ih dd1
+legislates:ll eh eh pa2 jh jh ss ss ll ey pa2 pa3 tt1 ss
+legislating:ll eh eh pa2 jh jh ss ss ll ey pa2 pa3 tt2 ih ng
+legislature:ll eh eh pa2 jh jh ss ss ll ey pa2 pa3 ch er1
+letter:ll eh eh pa3 tt2 er1
+litter:ll ih ih pa3 tt2 er1
+little:ll ih ih pa3 tt2 el
+m:eh eh mm
+march:mm ar pa3 ch
+may:mm ey
+memory:mm eh eh mm er2 iy
+memories:mm eh eh mm er2 iy zz
+million:mm ih ih ll yy1 ax nn1
+minute:mm ih nn1 ih pa3 tt2
+monday:mm ax ax nn1 pa2 dd2 ey
+month:mm ax nn1 th
+n:eh eh nn1
+nine:nn1 a a a y nn1
+nineteen:nn1 ay nn1 pa2 pa3 tt2 iy nn1
+ninety:nn1 ay nn1 pa3 tt2 iy
+nip:nn1 ih ih pa2 pa3 pp
+nipped:nn1 ih ih pa2 pa3 pp pa3 tt2
+nipping:nn1 ih ih pa2 pa3 pp ih ng
+nips:nn1 ih ih pa2 pa3 pp ss
+no:nn2 ax ow
+november:nn2 ow vv eh eh mm pa1 bb2 er1
+o:ow
+october:aa pa2 kk2 pa3 tt2 ow pa1 bb2 er1
+one:ww sx ax nn1
+p:pp iy
+physical:ff ff ih zz ih pa3 kk1 ax el
+pin:pp ih ih nn1
+pinned:pp ih ih nn1 pa2 dd1
+pinning:pp ih ih nn1 ih ng1
+pins:pp ih ih nn1 zz
+pledge:pp ll eh eh pa3 jh
+pledged:pp ll eh eh pa3 jh pa2 dd1
+pledges:pp ll eh eh pa3 jh ih zz
+pledging:pp ll eh eh pa3 jh ih ng
+plus:pp ll ax ax ss ss
+q:kk1 yy1 uw2
+r:ar
+ray:rr1 eh ey
+rays:rr1 eh ey zz
+ready:rr1 eh eh pa1 dd2 iy
+red:rr1 eh eh pa1 dd1
+robot:rr1 ow pa2 bb2 aa pa3 tt2
+robots:rr1 ow pa2 bb2 aa pa3 tt1 ss
+s:eh eh ss ss
+saturday:ss ss ae pa3 tt2 pa2 dd2 ey
+score:ss ss pa3 kk3 or
+second:ss ss eh pa3 kk1 ih nn1 pa2 dd1
+sensitive:ss ss eh eh nn1 ss ss ih pa2 pa3 tt2 ih vv
+sensitivity:ss ss eh eh nn1 ss ss ih pa2 pa3 tt2 ih vv ih pa2 pa3 tt2 iy
+september:ss ss eh pa3 pp pa3 tt2 eh eh pa1 bb2 er1
+seven:ss ss eh eh vv ih nn1
+seventeen:ss ss eh vv th nn1 pa2 pa3 tt2 iy nn1
+seventy:ss ss eh vv ih nn1 pa2 pa3 tt2 iy
+sincere:ss ss ih ih nn1 ss ss yr
+sincerely:ss ss ih ih nn1 ss ss eh eh rr1 ih pa2 pa3 tt2 iy
+sister:ss ss ih ih ss pa3 tt2 er1
+six:ss ss ih ih pa3 kk2 ss
+sixteen:ss ss ih pa3 kk2 ss pa2 pa3 tt2 iy nn1
+sixty:ss ss ih pa3 kk2 ss pa2 pa3 tt2 iy
+speak:ss ss pa3 iy pa3 kk2
+spell:ss ss pa3 pp eh eh el
+spelled:ss ss pa3 pp eh eh el pa3 dd1
+speller:ss ss pa3 pp eh eh el er2
+spellers:ss ss pa3 pp eh eh el er2 zz
+spelling:ss ss pa3 pp eh eh el ih ng
+spells:ss ss pa3 pp eh eh el zz
+start:ss ss pa3 tt2 ar pa3 tt2
+started:ss ss pa3 tt2 ar pa3 tt2 ih pa1 dd2
+starter:ss ss pa3 tt2 ar pa3 tt2 er1
+starting:ss ss pp3 tt2 ar pa3 tt2 ih nc
+starts:ss ss pp3 tt2 ar pa3 tt1 ss
+stop:ss ss pa3 tt1 aa aa pa3 pp
+stopped:ss ss pa3 tt1 aa aa pa3 pp pa3 tt2
+stopper:ss ss pa3 tt1 aa aa pa3 pp er1
+stopping:ss ss pa3 tt1 aa aa pa3 pp ih ng
+stops:ss ss pa3 tt1 aa aa pa3 pp ss
+subject:ss ss ax ax pa2 bb1 pa2 jh eh pa3 kk2 pa3 tt2:noun
+subject:ss ss ax pa2 bb1 pa2 jh eh eh pa3 kk2 pa3 tt2:verb
+sunday:ss ss ax ax nn1 pa2 dd2 ey
+sweat:ss ss ww eh eh pa3 tt2
+sweated:ss ss ww eh eh pa3 tt2 ih pa3 dd1
+sweater:ss ss ww eh eh pa3 tt2 er1
+sweaters:ss ss ww eh eh pa3 tt2 er1 zz
+sweating:ss ss ww eh eh pa3 tt2 ih ng
+sweats:ss ss ww eh eh pa3 tt2 ss
+switch:ss ss wh ih ih pa ch
+switched:ss ss wh ih ih pa3 ch pa3 tt2
+switches:ss ss wh ih ih pa3 ch ih zz2
+switching:ss ss wh ih ih pa3 ch ih ng2
+system:ss ss ih ih ss ss pa3 tt2 eh mm
+systems:ss ss ih ih ss ss pa3 tt2 eh mm zz
+t:tt2 iy
+talk:tt2 ao ao pa2 kk2
+talked:tt2 ao ao pa3 kk2 pa3 tt2
+talker:tt2 ao ao pa3 kk1 er1
+talkers:tt2 ao ao pa3 kk1 er1 zz
+talking:tt2 ao ao pa3 kk1 ih ng
+talks:tt2 ao ao pa2 kk2 ss
+ten:tt2 eh eh nn1
+thirteen:th er1 pa2 pa3 tt2 iy nn1
+thirty:th er2 pa2 pa3
+thousand:th aa aw zz th pa1 pa1 nn1 dd1
+three:th rr1 iy
+thursday:th er2 zz pa2 dd2 ey
+thread:th rr1 eh eh pa2 dd1
+threaded:th rr1 eh eh pa2 dd2 ih pa2 dd1
+threader:th rr1 eh eh pa2 dd2 er1
+threaders:th rr1 eh eh pa2 dd2 er1 zz
+threading:th rr1 eh eh pa2 dd2 ih ng
+threads:th rr1 eh eh pa2 dd2 zz
+then:dh1 eh eh nn1
+time:tt2 aa ay mm
+times:tt2 aa ay mm zz
+to:tt2 uw2
+too:tt2 uw2
+tuesday:tt2 uw2 zz pa2 dd2 ey
+twelve:tt2 wh eh eh ll vv
+twenty:tt2 wh eh eh nn1 pa2 pa3 tt2 iy
+two:tt2 uw2
+u:yy1 uw2
+uncle:ax ng pa3 kk3 el
+v:vv iy
+w:dd2 ax pa2 bb2 el yy1 uw2
+wednesday:ww eh eh nn1 zz pa2 dd2 ey
+whale:ww ey el
+whaler:ww ey ll er1
+whalers:ww ey ll er1 zz
+whales:ww ey el zz
+whaling:ww ey ll ih ng
+x:eh eh pa3 kk2 ss ss
+y:ww ay
+year:yy2 yr
+yes:yy2 eh eh ss ss
+z:zz iy
+zero:zz yr ow
