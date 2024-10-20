@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4 - 2008-02-24
+
+### Changed
+
+- Looks like a tiny microchip instead of a face
+- Renamed to Synthesized Voice Box
+- Packaged in a box for online delivery
+
 ## 1.3 - 2007-01-02
 
 ### Added
@@ -9,6 +17,7 @@
 ### Changed
 
 - Sounds pre-loaded quicker
+- Looks like a tall rectangular face with six red plates on the side
 
 ## 1.2 - 2006-06-24
 
@@ -37,3 +46,4 @@
 ### Added
 
 - Speak four phrases
+- Looks like a cube with a robot face on each side
