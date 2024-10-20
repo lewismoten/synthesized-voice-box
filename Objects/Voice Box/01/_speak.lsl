@@ -68,29 +68,104 @@ float Duration(string a)
 Speak(string message)
 {
     list allophones = llParseString2List(message, [" "], []);
-
+    list times;
     integer n = llGetListLength(allophones);
     integer i;
     string allophone = "";
+    
+    string code1 = "";
+    string code2 = "";
+    string code3 = "";
+    string code4 = "";
+    string code5 = "";
+    string code6 = "";
+    float time1 = 0;
+    float time2 = 0;
+    float time3 = 0;
+    float time4 = 0;
+    float time5 = 0;
+    float time6 = 0;
+    float time = 0;
+    
+    float dialation = 0.1;
+    
     for(i = 0; i < n; ++i)
     {
         allophone = llList2String(allophones, i);
-        if(llGetSubString(allophone, 0, 1) == "pa")
+        time = Duration(allophone);
+        if(llGetSubString(allophone, 0, 1) == "pa") allophone = "pa";
+        
+        if(i % 6 == 0)
         {
-            if(allophone == "pa1") llSleep(.01);
-            else if(allophone == "pa2") llSleep(.03);
-            else if(allophone == "pa3") llSleep(.05); 
-            else if(allophone == "pa4") llSleep(.1);
-            else llSleep(.2);
+            code1 += (string)(time1 - dialation) + "|" + allophone + "|";
+            time1 = time;
+            time2 += time;
+            time3 += time;
+            time4 += time;
+            time5 += time;
+            time6 += time;
         }
-        else
+        else if(i % 6 == 1)
         {
-            llPlaySound(allophone, 1);
-            float d = Duration(allophone) - .1;
-            if(d > 0) llSleep(d);
-//            llSleep(Duration(allophone) - .1);
+            code2 += (string)(time2 - dialation) + "|" + allophone + "|";
+            time1 += time;
+            time2 = time;
+            time3 += time;
+            time4 += time;
+            time5 += time;
+            time6 += time;
         }
+        else if(i % 6 == 2)
+        {
+            code3 += (string)(time3 - dialation) + "|" + allophone + "|";
+            time1 += time;
+            time2 += time;
+            time3 = time;
+            time4 += time;
+            time5 += time;
+            time6 += time;
+        }
+        else if(i % 6 == 3)
+        {
+            code4 += (string)(time4 - dialation) + "|" + allophone + "|";
+            time1 += time;
+            time2 += time;
+            time3 += time;
+            time4 = time;
+            time5 += time;
+            time6 += time;
+        }
+        else if(i % 6 == 4)
+        {
+            code5 += (string)(time5 - dialation) + "|" + allophone + "|";
+            time1 += time;
+            time2 += time;
+            time3 += time;
+            time4 += time;
+            time5 = time;
+            time6 += time;
+        }
+        else if(i % 6 == 5)
+        {
+            code6 += (string)(time6 - dialation) + "|" + allophone + "|";
+            time1 += time;
+            time2 += time;
+            time3 += time;
+            time4 += time;
+            time5 += time;
+            time6 = time;
+        }
+        
     }
+//    llWhisper(0, "code1:" + code1);
+//    llWhisper(0, "code2:" + code2);
+//    llWhisper(0, "code3:" + code3);
+//    llWhisper(0, "code4:" + code4);
+//    llWhisper(0, "code5:" + code5);
+//    llWhisper(0, "code6:" + code6);
+
+    preloadCount = 0;
+    llMessageLinked(LINK_SET, PREPARE_SPEACH, code1 + ";" + code2 + ";" + code3 + ";" + code4 + ";" + code5 + ";" + code6, NULL_KEY);
 }
 string Hexes2Allophones(string message)
 {
