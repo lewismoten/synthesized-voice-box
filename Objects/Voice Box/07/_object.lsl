@@ -1,4 +1,4 @@
-// Link Number: 4
+// Link Number: 7
 llSetPrimitiveParams([
   PRIM_NAME, "Object",
   PRIM_DESC, "",
@@ -9,8 +9,8 @@ llSetPrimitiveParams([
   PRIM_PHYSICS, FALSE,
   PRIM_TEMP_ON_REZ, FALSE,
   PRIM_PHANTOM, FALSE,
-  PRIM_POSITION, <36.69195, 247.3963, 97.6014>,
-  PRIM_POS_LOCAL, <-0.45436, 0.18659, -0.00855>,
+  PRIM_POSITION, <36.69195, 246.2596, 97.6014>,
+  PRIM_POS_LOCAL, <-0.45436, -0.95003, -0.00855>,
   PRIM_ROTATION, ZERO_ROTATION,
   PRIM_ROT_LOCAL, ZERO_ROTATION,
   PRIM_SIZE, <0.3044, 0.3044, 0.3044>,
@@ -27,7 +27,7 @@ llSetPrimitiveParams([
 
 // Face 0
 llSetPrimitiveParams([
-  PRIM_COLOR, 0, <1, 0, 0>, 1,
+  PRIM_COLOR, 0, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 0, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 0, 0,
   PRIM_RENDER_MATERIAL, 0, NULL_KEY,
@@ -45,7 +45,7 @@ llSetPrimitiveParams([
 
 // Face 1
 llSetPrimitiveParams([
-  PRIM_COLOR, 1, <1, 0, 0>, 1,
+  PRIM_COLOR, 1, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 1, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 1, 0,
   PRIM_RENDER_MATERIAL, 1, NULL_KEY,
@@ -63,7 +63,7 @@ llSetPrimitiveParams([
 
 // Face 2
 llSetPrimitiveParams([
-  PRIM_COLOR, 2, <1, 0, 0>, 1,
+  PRIM_COLOR, 2, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 2, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 2, 0,
   PRIM_RENDER_MATERIAL, 2, NULL_KEY,
@@ -81,7 +81,7 @@ llSetPrimitiveParams([
 
 // Face 3
 llSetPrimitiveParams([
-  PRIM_COLOR, 3, <1, 0, 0>, 1,
+  PRIM_COLOR, 3, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 3, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 3, 0,
   PRIM_RENDER_MATERIAL, 3, NULL_KEY,
@@ -99,7 +99,7 @@ llSetPrimitiveParams([
 
 // Face 4
 llSetPrimitiveParams([
-  PRIM_COLOR, 4, <1, 0, 0>, 1,
+  PRIM_COLOR, 4, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 4, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 4, 0,
   PRIM_RENDER_MATERIAL, 4, NULL_KEY,
@@ -117,7 +117,7 @@ llSetPrimitiveParams([
 
 // Face 5
 llSetPrimitiveParams([
-  PRIM_COLOR, 5, <1, 0, 0>, 1,
+  PRIM_COLOR, 5, <0.501961, 0, 0>, 1,
   PRIM_TEXTURE, 5, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 5, 0,
   PRIM_RENDER_MATERIAL, 5, NULL_KEY,

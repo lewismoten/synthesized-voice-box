@@ -4,7 +4,7 @@ integer SPEAK = 10003;
 integer PREPARE_SPEACH = 10004;
 integer SPEACH_PREPARED = 10005;
 
-integer nodeIndex = 2;
+integer nodeIndex = 5;
 integer nodeCount = 6;
 
 list codes;
