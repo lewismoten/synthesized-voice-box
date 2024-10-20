@@ -11,3 +11,5 @@ Assets
 | [Dedric Mauriac - Full Page - AvaStar - Sep2007](./Dedric%20Mauriac%20-%20Full%20Page%20-%20AvaStar%20-%20Sep2007.png) | ece155d6-98db-8dd5-24f3-e3b7cc781f04 | Sat Nov 17 19:07:15 2007 |
 | [File Box 3](./File%20Box%203.png) | 2d293c93-c80c-1e02-a3a4-cb6975b38262 | Sat Nov 17 12:45:25 2007 |
 | [Shipping Label](./Shipping%20Label.png) | 0256f672-74c4-0482-f1b7-20d2edb26485 | Sat Mar 25 14:50:47 2006 |
+| [Price Tag Numbers 1.0](./Price%20Tag%20Numbers%201.0.png) | a1cdd251-effd-fe46-bc5a-e9eab909b960 | Sun Aug 10 13:25:28 2008 |
+| [Price Tag b](./Price%20Tag%20b.png) | 329ef5de-8cfd-90c5-511b-99683b6a4382 | Sun Aug 10 14:01:31 2008 |
