@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.6 - 2008-11-11
+
+### Changed
+
+- Load allophones from asset UUIDs
+- Adjust allophones in predefined messages
+- Renamed voice scripts
+- Refactor delay calculation for each voice
+
+### Removed
+
+- Remove allophones from linked prim contents
+
 ## 1.5 - 2008-02-24
 
 ### Changed
