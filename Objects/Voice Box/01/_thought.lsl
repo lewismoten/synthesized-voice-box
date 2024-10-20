@@ -278,12 +278,12 @@ default
         if(number == SOUND_PRELOADED)
         {
             preloadCount++;
-            if(preloadCount >= 6) Speak("rr1 eh eh pa1 dd2 iy");
+            if(preloadCount == 6) Speak("rr1 eh eh pa1 dd2 iy");
         }
         if(number == SPEACH_PREPARED)
         {
             preloadCount++;
-            if(preloadCount >= 6) 
+            if(preloadCount == 6) 
             {
                 float time = llGetTime() + 2;
                 llMessageLinked(LINK_SET, SPEAK, (string)time, NULL_KEY);
