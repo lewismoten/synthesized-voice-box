@@ -4,7 +4,7 @@ integer SPEAK = 10003;
 integer PREPARE_SPEACH = 10004;
 integer SPEACH_PREPARED = 10005;
 
-integer nodeIndex = 0;
+integer nodeIndex = 1;
 integer nodeCount = 6;
 
 list codes;
@@ -29,10 +29,9 @@ prepare(string message)
 speak()
 {    
     integer i;
-    for(i = 0; i < codeCount; i++)
+    for(i = 0; i < codeCount; ++i)
     {
-        llSleep(llList2Float(codes, i));
-        i++;
+        llSleep(llList2Float(codes, i++));
         string allophone = llList2String(codes, i);
         if(llGetSubString(allophone, 0, 1) != "pa")
             llPlaySound(allophone, 1);
