@@ -2,7 +2,7 @@
 
 | Setting | Value | | | |
 | --- | --- | --- | --- | --- |
-| Link Number | 0 |
+| Link Number | 1 |
 | Name | Voice Box 1.2 |
 | Description | Simulates voice |
 | Creator | dedric.mauriac |
