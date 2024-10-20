@@ -55,6 +55,13 @@ float Duration(string a)
     if(a == "xr") return .36;
     if(a == "aw") return .37;
     if(a == "oy") return .42;
+    
+    if(a == "pa1") return .01;
+    if(a == "pa2") return .03;
+    if(a == "pa3") return .05;
+    if(a == "pa4") return .1;
+    if(a == "pa5") return .2;
+    
     llOwnerSay("unknow allophone " + a);
     return 0;
 }
