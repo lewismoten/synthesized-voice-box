@@ -8,6 +8,8 @@ This was a small research project to emulate speech within Second Life based. Ju
 
 ## Visual Changes
 
+See the original (1.0) and latest (1.6) versions in a video: [Voice Emulation with SPO-256-AL2 sounds](https://youtu.be/TnB-0aerqBg)
+
 ### 1.0 - 1.3
 
 ![Voice Box Picture](./Assets/Voice%20Box%20Picture.png)
