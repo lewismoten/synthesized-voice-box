@@ -80,15 +80,17 @@ Speak(string message)
     string code4 = "";
     string code5 = "";
     string code6 = "";
-    float time1 = 0;
-    float time2 = 0;
-    float time3 = 0;
-    float time4 = 0;
-    float time5 = 0;
-    float time6 = 0;
+    
+    float dialation = - 0.1;
+    
+    float time1 = dialation;
+    float time2 = dialation;
+    float time3 = dialation;
+    float time4 = dialation;
+    float time5 = dialation;
+    float time6 = dialation;
     float time = 0;
     
-    float dialation = 0.1;
     
     for(i = 0; i < n; ++i)
     {
