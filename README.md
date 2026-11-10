@@ -1,3 +1,5 @@
+![synthesized-voice-box: Second Life robotic text-to-speech](docs/images/social-preview.png)
+
 # Synthesized Voice Box
 
 Emulate speech within Second Life
